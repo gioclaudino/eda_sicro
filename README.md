@@ -3,7 +3,9 @@
 Este repositório contém uma análise exploratória de dados (EDA) aplicada ao **SICRO** (Sistema de Custos Referenciais de Obras), uma base de dados do **DNIT (Departamento Nacional de Infraestrutura de Transportes)** utilizada para compor orçamentos de insumos e serviços em obras rodoviárias e de infraestrutura. Realizei esse EDA na curso de "Programação em Python para Data Science", realizado no SENAI Ipiranga. 
 
 ## Estrutura
-- `EDA_SICRO.ipynb`: notebook Jupyter com a análise exploratória.  
+- `EDA_SICRO.ipynb`: notebook Jupyter com a análise exploratória.
+- `eda_sicro.py`: código Python com a análise exploratória.
+- `mdo_df (1).csv`: base de dados já filtrada para insumos do tipo mão de obra, que foi o foco da análise exploratória.
 
 ## Conteúdo
 - Importação e exploração da base SICRO.  
